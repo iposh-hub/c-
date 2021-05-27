@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.exe
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.deps.json
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.dll
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\ref\MetotTanımlama.dll
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\bin\Debug\net5.0\MetotTanımlama.pdb
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.dll
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\ref\MetotTanımlama.dll
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.pdb
+C:\Users\USER\Desktop\c_programmig\MetotTanımlama\obj\Debug\net5.0\MetotTanımlama.genruntimeconfig.cache
