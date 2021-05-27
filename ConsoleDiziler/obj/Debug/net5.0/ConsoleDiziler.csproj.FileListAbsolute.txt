@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ref\ConsoleDiziler.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\bin\Debug\net5.0\ConsoleDiziler.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ref\ConsoleDiziler.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleDiziler\obj\Debug\net5.0\ConsoleDiziler.genruntimeconfig.cache
