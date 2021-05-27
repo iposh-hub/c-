@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ref\ConsoleAppSwitch.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\bin\Debug\net5.0\ConsoleAppSwitch.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ref\ConsoleAppSwitch.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppSwitch\obj\Debug\net5.0\ConsoleAppSwitch.genruntimeconfig.cache
