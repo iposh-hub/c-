@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ref\ConsoleTipDonusumleri.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\bin\Debug\net5.0\ConsoleTipDonusumleri.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ref\ConsoleTipDonusumleri.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleTipDonusumleri\obj\Debug\net5.0\ConsoleTipDonusumleri.genruntimeconfig.cache
