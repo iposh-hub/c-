@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ref\ConsoleForEach.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\bin\Debug\net5.0\ConsoleForEach.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ref\ConsoleForEach.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleForEach\obj\Debug\net5.0\ConsoleForEach.genruntimeconfig.cache
