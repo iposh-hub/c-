@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ref\ConsoleAppArraySınıfMetodlar.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\bin\Debug\net5.0\ConsoleAppArraySınıfMetodlar.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ref\ConsoleAppArraySınıfMetodlar.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArraySınıfMetodlar\obj\Debug\net5.0\ConsoleAppArraySınıfMetodlar.genruntimeconfig.cache
