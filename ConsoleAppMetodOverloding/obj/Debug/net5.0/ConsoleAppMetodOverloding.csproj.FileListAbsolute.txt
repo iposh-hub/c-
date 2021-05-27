@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ref\ConsoleAppMetodOverloding.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\bin\Debug\net5.0\ConsoleAppMetodOverloding.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ref\ConsoleAppMetodOverloding.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppMetodOverloding\obj\Debug\net5.0\ConsoleAppMetodOverloding.genruntimeconfig.cache
