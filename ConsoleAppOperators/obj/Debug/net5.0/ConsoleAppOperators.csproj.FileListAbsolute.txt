@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ref\ConsoleAppOperators.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\bin\Debug\net5.0\ConsoleAppOperators.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ref\ConsoleAppOperators.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppOperators\obj\Debug\net5.0\ConsoleAppOperators.genruntimeconfig.cache

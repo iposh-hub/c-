@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ref\ConsoleAppIfStructures.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\bin\Debug\net5.0\ConsoleAppIfStructures.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ref\ConsoleAppIfStructures.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppIfStructures\obj\Debug\net5.0\ConsoleAppIfStructures.genruntimeconfig.cache
