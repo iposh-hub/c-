@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ref\ConsoleAppFor.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\bin\Debug\net5.0\ConsoleAppFor.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ref\ConsoleAppFor.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.genruntimeconfig.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppFor\obj\Debug\net5.0\ConsoleAppFor.csprojAssemblyReference.cache
