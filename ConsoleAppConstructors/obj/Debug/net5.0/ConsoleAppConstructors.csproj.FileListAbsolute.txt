@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ref\ConsoleAppConstructors.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\bin\Debug\net5.0\ConsoleAppConstructors.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ref\ConsoleAppConstructors.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppConstructors\obj\Debug\net5.0\ConsoleAppConstructors.genruntimeconfig.cache
