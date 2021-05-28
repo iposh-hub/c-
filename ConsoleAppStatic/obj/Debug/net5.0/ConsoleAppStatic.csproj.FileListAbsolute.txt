@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ref\ConsoleAppStatic.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\bin\Debug\net5.0\ConsoleAppStatic.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ref\ConsoleAppStatic.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStatic\obj\Debug\net5.0\ConsoleAppStatic.genruntimeconfig.cache
