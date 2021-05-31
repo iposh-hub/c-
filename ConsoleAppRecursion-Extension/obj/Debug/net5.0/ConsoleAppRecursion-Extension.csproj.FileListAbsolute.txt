@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ref\ConsoleAppRecursion-Extension.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\bin\Debug\net5.0\ConsoleAppRecursion-Extension.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ref\ConsoleAppRecursion-Extension.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppRecursion-Extension\obj\Debug\net5.0\ConsoleAppRecursion-Extension.genruntimeconfig.cache

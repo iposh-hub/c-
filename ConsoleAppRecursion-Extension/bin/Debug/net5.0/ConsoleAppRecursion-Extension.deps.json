@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppRecursion-Extension/1.0.0": {
+        "runtime": {
+          "ConsoleAppRecursion-Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppRecursion-Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
