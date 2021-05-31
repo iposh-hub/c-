@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ref\ConsoleAppDictionary.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\bin\Debug\net5.0\ConsoleAppDictionary.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ref\ConsoleAppDictionary.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppDictionary\obj\Debug\net5.0\ConsoleAppDictionary.genruntimeconfig.cache
