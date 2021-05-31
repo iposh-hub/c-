@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.exe
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.deps.json
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.dll
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ref\ConsoleAppHazırMetodlarDateTimeMath.dll
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\bin\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.pdb
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.dll
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ref\ConsoleAppHazırMetodlarDateTimeMath.dll
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.pdb
+C:\Users\USER\source\repos\ConsoleAppHazırMetodlarDateTimeMath\obj\Debug\net5.0\ConsoleAppHazırMetodlarDateTimeMath.genruntimeconfig.cache
