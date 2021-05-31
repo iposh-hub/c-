@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ref\ConsoleAppStringMethods.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\bin\Debug\net5.0\ConsoleAppStringMethods.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ref\ConsoleAppStringMethods.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.genruntimeconfig.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppStringMethods\obj\Debug\net5.0\ConsoleAppStringMethods.csprojAssemblyReference.cache
