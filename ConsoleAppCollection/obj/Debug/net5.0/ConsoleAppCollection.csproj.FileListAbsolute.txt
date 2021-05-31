@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ref\ConsoleAppCollection.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\bin\Debug\net5.0\ConsoleAppCollection.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ref\ConsoleAppCollection.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppCollection\obj\Debug\net5.0\ConsoleAppCollection.genruntimeconfig.cache
