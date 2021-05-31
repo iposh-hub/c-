@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.exe
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.deps.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ref\ConsoleAppArrayList.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\bin\Debug\net5.0\ConsoleAppArrayList.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ref\ConsoleAppArrayList.dll
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.pdb
+C:\Users\USER\Desktop\c_programmig\ConsoleAppArrayList\obj\Debug\net5.0\ConsoleAppArrayList.genruntimeconfig.cache
