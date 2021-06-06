@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.exe
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.deps.json
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.runtimeconfig.json
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.dll
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ref\ExtensionHw.dll
+C:\Users\USER\source\repos\ExtensionHw\bin\Debug\net5.0\ExtensionHw.pdb
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.AssemblyInfo.cs
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.dll
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ref\ExtensionHw.dll
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.pdb
+C:\Users\USER\source\repos\ExtensionHw\obj\Debug\net5.0\ExtensionHw.genruntimeconfig.cache
