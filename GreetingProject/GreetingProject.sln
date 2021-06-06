@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingProject", "GreetingProject.csproj", "{39D82917-B365-4C58-8423-FCFE9E3A0455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "..\DependencyInversion\DependencyInversion.csproj", "{6039D6A5-B4BA-48DA-9469-F39A1A69E0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D82917-B365-4C58-8423-FCFE9E3A0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D82917-B365-4C58-8423-FCFE9E3A0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D82917-B365-4C58-8423-FCFE9E3A0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D82917-B365-4C58-8423-FCFE9E3A0455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6039D6A5-B4BA-48DA-9469-F39A1A69E0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6039D6A5-B4BA-48DA-9469-F39A1A69E0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6039D6A5-B4BA-48DA-9469-F39A1A69E0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6039D6A5-B4BA-48DA-9469-F39A1A69E0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A04EFB-F986-4932-BBD1-C6EC13494802}
+	EndGlobalSection
+EndGlobal
