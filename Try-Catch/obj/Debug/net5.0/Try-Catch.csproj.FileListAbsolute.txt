@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.exe
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.deps.json
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.dll
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\ref\Try-Catch.dll
+C:\Users\USER\Desktop\c_programmig\Try-Catch\bin\Debug\net5.0\Try-Catch.pdb
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.dll
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\ref\Try-Catch.dll
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.pdb
+C:\Users\USER\Desktop\c_programmig\Try-Catch\obj\Debug\net5.0\Try-Catch.genruntimeconfig.cache
