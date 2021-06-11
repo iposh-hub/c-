@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.AssemblyInfo.cs
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.exe
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.deps.json
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.runtimeconfig.json
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.dll
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\ref\InterfacePatika.dll
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\bin\Debug\net5.0\InterfacePatika.pdb
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.dll
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\ref\InterfacePatika.dll
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.pdb
+C:\Users\USER\Desktop\c_programmig\InterfacePatika\obj\Debug\net5.0\InterfacePatika.genruntimeconfig.cache
