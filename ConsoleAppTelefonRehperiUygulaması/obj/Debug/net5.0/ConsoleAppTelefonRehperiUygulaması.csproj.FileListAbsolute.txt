@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.exe
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.deps.json
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.dll
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ref\ConsoleAppTelefonRehperiUygulaması.dll
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\bin\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.pdb
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.dll
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ref\ConsoleAppTelefonRehperiUygulaması.dll
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.pdb
+C:\Users\USER\source\repos\ConsoleAppTelefonRehperiUygulaması\obj\Debug\net5.0\ConsoleAppTelefonRehperiUygulaması.genruntimeconfig.cache
